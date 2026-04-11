@@ -6,7 +6,7 @@ Red Hot Chili Peppers (RHCP)
 
 ## Соста группы
 
-Романов Леонид (github: lromanov-NES), Погребной Евгений (github: example)
+Романов Леонид (github: lromanov-NES), Погребной Евгений (github: epogrebnoj-oss)
 
 ## Идея компании
 
