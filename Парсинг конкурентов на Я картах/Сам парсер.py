@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-# добавить обработку если нет отзывов
+#добавить обработку если нет отзывов
 # эта х иногда падает хз почему
 
 class YandexParser:
