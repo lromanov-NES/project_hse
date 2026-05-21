@@ -47,9 +47,9 @@ class YandexParser:
 
         if revs:
             self._save_csv(revs, org_name)
-            print(f"✅ {org_name}: {len(revs)} отзывов")
+            print(f"{org_name}: {len(revs)} отзывов")
         else:
-            print(f"❌ {org_name}: нифига не нашлось")
+            print(f"{org_name}: нифига не нашлось")
 
         return revs
 
