@@ -47,9 +47,9 @@ class YandexParser:
 
         if revs:
             self._save_csv(revs, org_name)
-            print(f"✅ {org_name}: {len(revs)} отзывов")
+            print(f"{org_name}: {len(revs)} отзывов")
         else:
-            print(f"❌ {org_name}: нифига не нашлось")
+            print(f"{org_name}: нифига не нашлось")
 
         return revs
 
@@ -70,7 +70,7 @@ class YandexParser:
                         b.click()
                         time.sleep(0.2)
             except:
-                pass  # если нет кнопок - похуй
+                pass  # если нет кнопок - пофиг
 
             # кнопка "загрузить ещё"
             try:
