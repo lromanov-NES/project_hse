@@ -4,7 +4,7 @@
 
 Red Hot Chili Peppers (RHCP)
 
-## Соста группы
+## Состав группы
 
 Романов Леонид (github: lromanov-NES), Погребной Евгений (github: epogrebnoj-oss)
 
